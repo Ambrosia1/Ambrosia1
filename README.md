@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ambrosia1
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning HTML, CSS, an JS
+- 💞️ I’m looking to find anyone who can help learn either with me or apprentice on project
+- 📫 You can reach me at @Ambr0sia1 on tweeter

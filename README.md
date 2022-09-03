@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ambrosia1
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Full-Stack and Android Dev
-- 💞️ I’m looking to find anyone who can help learn either with me or apprentice on project
-- 📫 You can reach me at @Ambr0sia1 on tweeter
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in Web and DS Development
+- 🌱 I’m currently learning Python and lot of Fundamentals through Meta with Coursera
+- 💞️ I’m looking to find communities and individuals that either need help or want to help me advanced my knowledge in SWE
+- 📫 You can reach me at @Ambr0sia1 on Twitter

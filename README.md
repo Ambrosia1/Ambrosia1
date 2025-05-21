@@ -3,6 +3,4 @@
 - I am a Field Trainer/Cable engineer for Xfinity Contractor
 - 🌱 I’m currently learning Python and Network Architecture
 - 💞️ I’m looking to find communities and individuals that either need help or want to help me advanced my knowledge in SWE
-- 📫 You can reach me @:
-= @Ambr0sia1 on X,
-= @ambr0.bsky.social on Bluesky
+- 📫 You can reach me at @Ambr0sia1 on X/@ambr0.bsky.social on Bluesky

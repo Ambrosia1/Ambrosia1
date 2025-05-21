@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Python and Network Architecture
 - 💞️ I’m looking to find communities and individuals that either need help or want to help me advanced my knowledge in SWE
 - 📫 You can reach me @:
-        @Ambr0sia1 on X
-        @ambr0.bsky.social on Bluesky
+= @Ambr0sia1 on X,
+= @ambr0.bsky.social on Bluesky
